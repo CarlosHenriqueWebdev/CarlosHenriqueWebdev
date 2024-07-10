@@ -1,5 +1,7 @@
 # Hi there, I'm Carlos Henrique! 👋
 
+![](https://komarev.com/ghpvc/?username=CarlosHenriqueWebdev)
+
 Welcome to my GitHub profile! I'm a 19-year-old Junior Full Stack Developer and UI/UX Designer, passionate about technology and design. I work as a freelancer and volunteer on various projects, continuously seeking to improve my skills and contribute to innovative and intuitive digital experiences. My goal is to make a living doing what I love while being happy with someone I care about.
 
 ## 🔧 Technologies & Tools
