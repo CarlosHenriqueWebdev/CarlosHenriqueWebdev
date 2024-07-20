@@ -35,8 +35,7 @@ Welcome to my GitHub profile! I'm a 19-year-old Junior Full Stack Developer and 
 
 Here are a few of my best finished projects:
 
-- **[Excellence Cleaners](https://excellence-cleaners.com/en)**:
-- **[Excellence Conciergerie](https://excellence-conciergerie.com/en)**:
+- **[Excellence Cleaners](https://excellence-cleaners.com/en) && [Excellence Conciergerie](https://excellence-conciergerie.com/en)**:
   I was tasked with redesigning the Excellence Cleaners and Conciergerie website, which was facing issues with its previous developer. Initially built using Elementor on WordPress, the client was dissatisfied with the animations and previous design. To meet expectations, I redesigned the site from scratch in Figma and developed it using Next.js, incorporating various animations for a more dynamic and engaging user experience.
   - **Skills**: Next.js, Figma, Tailwind CSS, GSAP (GreenSock Animation Platform), CSS, i18next (Internationalization), Lenis Scroll, Next SEO (Search Engine Optimization), Email Integration (SMTP), Formik/Yup (Forms and Validation), Web Accessibility (WCAG), Clean Code, Framer Motion
   - [Live Site Cleaners](https://excellence-conciergerie.com/en)
