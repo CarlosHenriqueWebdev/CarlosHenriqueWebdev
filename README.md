@@ -35,12 +35,16 @@ Welcome to my GitHub profile! I'm a 19-year-old Junior Full Stack Developer and 
 
 Here are a few of my best finished projects:
 
-- **[Excellence Conciergerie](https://excellence-conciergerie.com/en)**: 
-  I was tasked with redesigning the Excellence Conciergerie website, which was facing issues with its previous developer. Initially built using Elementor on WordPress, the client was dissatisfied with the animations and previous design. To meet expectations, I redesigned the site from scratch in Figma and developed it using Next.js, incorporating various animations for a more dynamic and engaging user experience.
-  - **Skills**: Next.js, Figma, Tailwind CSS, GSAP (GreenSock Animation Platform), CSS, i18next (Internationalization), Lenis Scroll, Next SEO (Search Engine Optimization), Email Integration (SMTP), Formik/Yup (Forms and Validation), Web Accessibility (WCAG), Clean Code
-  - [Live Site](https://excellence-conciergerie.com/en)
-  - [Figma Prototype](https://www.figma.com/design/ZbGuHDbMQJfuPJVLg6rhwY/Excellence-Conciergerie?node-id=885169-448&t=NeQeWCWDznkAKsle-0)
-  - [GitHub Repository](https://github.com/CarlosHenriqueWebdev/excellence-conciergerie/)
+- **[Excellence Cleaners](https://excellence-cleaners.com/en)**:
+- **[Excellence Conciergerie](https://excellence-conciergerie.com/en)**:
+  I was tasked with redesigning the Excellence Cleaners and Conciergerie website, which was facing issues with its previous developer. Initially built using Elementor on WordPress, the client was dissatisfied with the animations and previous design. To meet expectations, I redesigned the site from scratch in Figma and developed it using Next.js, incorporating various animations for a more dynamic and engaging user experience.
+  - **Skills**: Next.js, Figma, Tailwind CSS, GSAP (GreenSock Animation Platform), CSS, i18next (Internationalization), Lenis Scroll, Next SEO (Search Engine Optimization), Email Integration (SMTP), Formik/Yup (Forms and Validation), Web Accessibility (WCAG), Clean Code, Framer Motion
+  - [Live Site Cleaners](https://excellence-conciergerie.com/en)
+  - [Live Site Conciergerie](https://excellence-cleaners.com/en)
+  - [Figma Prototype Cleaners](https://www.figma.com/design/piapBIxY5QuHYWUMTLVjFG/Excellence-Cleaners?m=auto&t=myC4CYR0cgnwLk8l-6)
+  - [Figma Prototype Conciergerie](https://www.figma.com/design/ZbGuHDbMQJfuPJVLg6rhwY/Excellence-Conciergerie?node-id=885169-448&t=NeQeWCWDznkAKsle-0)
+  - [GitHub Repository Cleaners](https://github.com/CarlosHenriqueWebdev/excellence-cleaners)
+  - [GitHub Repository Conciergerie](https://github.com/CarlosHenriqueWebdev/excellence-conciergerie/)
 
 - **[Ronaldo Coelho Nutri](https://ronaldo-coelho-nutri-nuxt3.vercel.app/)**: 
   Volunteered via 99freelas to develop a website for nutritionist Ronaldo Coelho. Used Nuxt 3 for server-side rendering (SSR) to improve search engine optimization (SEO). Unfortunately, the project was canceled due to client dismissal.
