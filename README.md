@@ -35,6 +35,11 @@ Welcome to my GitHub profile! I'm a 19-year-old Junior Full Stack Developer and 
 
 Here are a few of my best finished projects:
 
+- **[Excellence Cleaners Presentation PDF](https://drive.google.com/file/d/1GEn9rRVDLTNBUcFsGfpsCZg_FacxaC1m/view?usp=sharing)**: I created a comprehensive presentation PDF for Excellence Cleaners, leveraging my skills in Figma and presentation design. This project was part of voluntary work following the completion of two non-paid website redesigns for the company. The initial presentation was outdated and was a very basic free template, so I made a entirely new design to better reflect the company’s professionalism and commitment to high-quality cleaning services.
+  - **Skills**: Figma, Presentation Design
+  - [Live PDF](https://drive.google.com/file/d/1GEn9rRVDLTNBUcFsGfpsCZg_FacxaC1m/view?usp=sharing)
+  - [Figma Prototype](https://www.figma.com/design/QJ9a7zVKC1VkeUsY4PnKs6/Presentation-%2F-Excellence-Cleaners?node-id=885169-448&t=bxuoBo7Ep3AJPEoS-1)
+
 - **[Excellence Cleaners](https://excellence-cleaners.com/en) && [Excellence Conciergerie](https://excellence-conciergerie.com/en)**:
   I was tasked with redesigning the Excellence Cleaners and Conciergerie website, which was facing issues with its previous developer. Initially built using Elementor on WordPress, the client was dissatisfied with the animations and previous design. To meet expectations, I redesigned the site from scratch in Figma and developed it using Next.js, incorporating various animations for a more dynamic and engaging user experience.
   - **Skills**: Next.js, Figma, Tailwind CSS, GSAP (GreenSock Animation Platform), CSS, i18next (Internationalization), Lenis Scroll, Next SEO (Search Engine Optimization), Email Integration (SMTP), Formik/Yup (Forms and Validation), Web Accessibility (WCAG), Clean Code, Framer Motion
