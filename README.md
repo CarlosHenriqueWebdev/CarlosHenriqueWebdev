@@ -51,7 +51,7 @@ Here are a few of my best finished projects:
   - [GitHub Repository Conciergerie](https://github.com/CarlosHenriqueWebdev/excellence-conciergerie/)
 
 - **[Ronaldo Coelho Nutri](https://ronaldo-coelho-nutri-nuxt3.vercel.app/)**: 
-  Volunteered via 99freelas to develop a website for nutritionist Ronaldo Coelho. Used Nuxt 3 for server-side rendering (SSR) to improve search engine optimization (SEO). Unfortunately, the project was canceled due to client dismissal.
+  A quick job to develop a website for nutritionist Ronaldo Coelho. Used Nuxt 3 for server-side rendering (SSR) to improve search engine optimization (SEO). Unfortunately, the project was canceled due to client dismissal.
   - **Skills**: Nuxt 3, Figma, Vue 3, CSS, Tailwind CSS, Clean Code, Email Integration (SMTP), Web Accessibility (WCAG), Clean Code
   - [Live Site](https://ronaldo-coelho-nutri-nuxt3.vercel.app/)
   - [Figma Prototype](https://www.figma.com/design/0OZKIKHiON5gAIJTipLR0K/Nutritionist-Website?t=iLw5oeb0EWJ0e8OL-0)
