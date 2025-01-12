@@ -45,17 +45,17 @@ Here are a few of my best finished projects:
   - **Skills**: Next.js, Figma, Tailwind CSS, GSAP (GreenSock Animation Platform), CSS, i18next (Internationalization), Lenis Scroll, Next SEO (Search Engine Optimization), Email Integration (SMTP), Formik/Yup (Forms and Validation), Web Accessibility (WCAG), Clean Code, Framer Motion
   - [Live Site Cleaners](https://excellence-cleaners.com)
   - [Live Site Conciergerie](https://excellence-conciergerie.com)
-  - [Figma Prototype Cleaners](https://www.figma.com/design/piapBIxY5QuHYWUMTLVjFG/Excellence-Cleaners?m=auto&t=myC4CYR0cgnwLk8l-6)
-  - [Figma Prototype Conciergerie](https://www.figma.com/design/ZbGuHDbMQJfuPJVLg6rhwY/Excellence-Conciergerie?node-id=885169-448&t=NeQeWCWDznkAKsle-0)
-  - [GitHub Repository Cleaners](https://github.com/CarlosHenriqueWebdev/excellence-cleaners)
-  - [GitHub Repository Conciergerie](https://github.com/CarlosHenriqueWebdev/excellence-conciergerie/)
 
 - **[Ronaldo Coelho Nutri](https://ronaldo-coelho-nutri-nuxt3.vercel.app/)**: 
   A quick job to develop a website for nutritionist Ronaldo Coelho. Used Nuxt 3 for server-side rendering (SSR) to improve search engine optimization (SEO). Unfortunately, the project was canceled due to client dismissal.
   - **Skills**: Nuxt 3, Figma, Vue 3, CSS, Tailwind CSS, Clean Code, Email Integration (SMTP), Web Accessibility (WCAG), Clean Code
   - [Live Site](https://ronaldo-coelho-nutri-nuxt3.vercel.app/)
-  - [Figma Prototype](https://www.figma.com/design/0OZKIKHiON5gAIJTipLR0K/Nutritionist-Website?t=iLw5oeb0EWJ0e8OL-0)
-  - [GitHub Repository](https://github.com/CarlosHenriqueWebdev/RonaldoCoelhoNutriNuxt3/)
+ 
+## 📝 UX FigJam / Brainstorming / Planning for Complex Tasks
+
+- **[Platform Administrator](https://www.figma.com/board/gMG8obRwfqljKhLFH2Fe2E/ConectePubli-Admin?t=oeLa7cQ8lnNZV0Ya-6)**
+- **[Premium Features](https://www.figma.com/board/PvyUlskgNXsAmNzj4qsXv1/ConectePubli-Brand-Premium?t=oeLa7cQ8lnNZV0Ya-6)**
+- **[Campaign Creation & Management Flow]([https://www.figma.com/board/gMG8obRwfqljKhLFH2Fe2E/ConectePubli-Admin?t=oeLa7cQ8lnNZV0Ya-6](https://www.figma.com/board/HzQAwsLgJuJAPqeTUWZ5WT/ConectePubli-Campaign-Creation-%26-Administration?t=oeLa7cQ8lnNZV0Ya-6))**
 
 ## 📫 How to reach me
 
