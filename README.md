@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CarlosHenriqueWebdev)
 
-Welcome to my GitHub profile! I'm a 19-year-old Junior Full Stack Developer and UI/UX Designer, passionate about technology and design. I work as a freelancer and volunteer on various projects, continuously seeking to improve my skills and contribute to innovative and intuitive digital experiences. My goal is to make a living doing what I love while being happy with someone I care about.
+Results-driven UI/UX Designer, QA Tester, and Frontend Developer with 4+ years of experience crafting seamless user experiences, improving system stability, and optimizing workflows. Proven track record of reducing defects by 40% and boosting engagement by 35% through intuitive design and robust testing.
 
 ## 🔧 Technologies & Tools
 
@@ -60,7 +60,6 @@ Here are a few of my best finished projects:
 
 Feel free to reach out if you want to collaborate on a project, or just to say hi!
 
-- [https://www.linkedin.com/in/carlos-henrique-do-carmo-2761842b0/](https://www.linkedin.com/in/carlos-henrique-do-carmo-2761842b0/)
 - [carloshenrique.webdev@gmail.com](mailto:carloshenrique.webdev@gmail.com)
 - [+5535998589234](https://wa.me/+5535998589234)
 
