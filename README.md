@@ -50,6 +50,25 @@ Here are a few of my best finished projects:
   - **Skills**: Nuxt 3, Figma, Vue 3, CSS, Tailwind CSS, Clean Code, Email Integration (SMTP), Web Accessibility (WCAG), Clean Code
   - [Live Site](https://ronaldo-coelho-nutri-nuxt3.vercel.app/)
  
+**Extra**:
+
+ - **[Daisy Budgeting Guide](https://www.joindaisy.com/budgeting-guide)**  
+   Collaborated on creating a financial budgeting guide to help users manage personal finances effectively.
+   - [Live Site](https://www.joindaisy.com/budgeting-guide)
+
+- **[Regeneration Enterprises Website](https://www.regeneration.enterprises/)**  
+  Designed and developed a clean, responsive website for Regeneration Enterprises with a focus on sustainability.  
+  - [Live Site](https://www.regeneration.enterprises/)
+
+- **[Avoca Store Website](https://www.avoca.store/)**  
+  Developed an e-commerce platform for Avoca, focusing on seamless shopping experiences and user-friendly design.  
+  - [Live Site](https://www.avoca.store/)
+
+- **[Pixel Python](https://pixel-python.vercel.app/)**  
+  Simple Snake Game I made for fun using Angular.
+  - [Live Site](https://pixel-python.vercel.app/)
+
+ 
 ## 📝 UX FigJam / Brainstorming / Planning for Complex Tasks
 
 - **[Platform Administrator](https://www.figma.com/board/gMG8obRwfqljKhLFH2Fe2E/ConectePubli-Admin?t=oeLa7cQ8lnNZV0Ya-6)**
