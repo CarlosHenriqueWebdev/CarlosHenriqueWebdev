@@ -2,7 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=CarlosHenriqueWebdev)
 
-I'm a results-driven UI/UX Designer, QA Tester, and Frontend Developer with 4+ years of experience crafting seamless user experiences, improving system stability, and optimizing workflows. Proven track record of reducing defects by 40% and boosting engagement by 35% through intuitive design and robust testing.
+I'm a results-driven UI/UX Designer, QA, and Full Stack Developer with 4+ years of experience crafting seamless user experiences, improving
+system stability, and optimizing workflows. Proven track record of reducing defects by 40% and boosting engagement by 35% through intuitive design and robust testing. Explore my design portfolio on [Behance](https://www.behance.net/carloshenriqu71).
 
 ## 🔧 Technologies & Tools
 
