@@ -40,11 +40,11 @@ Here are a few of my best finished projects:
   - **Skills**: Figma, Presentation Design
   - [Live PDF](https://drive.google.com/file/d/1GEn9rRVDLTNBUcFsGfpsCZg_FacxaC1m/view?usp=sharing)
 
-- **[Excellence Cleaners](https://excellence-cleaners.com/en) && [Excellence Conciergerie](https://excellence-conciergerie.com/en)**:
-  I was tasked with redesigning the Excellence Cleaners and Conciergerie website, which was facing issues with its previous developer. Initially built using Elementor on WordPress, the client was dissatisfied with the animations and previous design. To meet expectations, I redesigned the site from scratch in Figma and developed it using Next.js, incorporating various animations for a more dynamic and engaging user experience.
+- **Excellence Conciergerie & Excellence Laundry**:
+  I was tasked with redesigning the Excellence Conciergerie website, which was facing issues with its previous developer. Initially built using Elementor on WordPress, the client was dissatisfied with the animations and previous design. To meet expectations, I redesigned the site from scratch in Figma and developed it using Next.js, incorporating various animations for a more dynamic and engaging user experience.
   - **Skills**: Next.js, Figma, Tailwind CSS, GSAP (GreenSock Animation Platform), CSS, i18next (Internationalization), Lenis Scroll, Next SEO (Search Engine Optimization), Email Integration (SMTP), Formik/Yup (Forms and Validation), Web Accessibility (WCAG), Clean Code, Framer Motion
-  - [Live Site Cleaners](https://excellence-cleaners.com)
-  - [Live Site Conciergerie](https://excellence-conciergerie.com)
+  - [Conciergerie Design on Behance](https://www.behance.net/gallery/216603013/Excellence-Conciergerie)
+  - [Laundry Design on Behance](https://www.behance.net/gallery/216614521/Excellence-Laundry)
 
 - **[Ronaldo Coelho Nutri](https://ronaldo-coelho-nutri-nuxt3.vercel.app/)**: 
   A quick job to develop a website for nutritionist Ronaldo Coelho. Used Nuxt 3 for server-side rendering (SSR) to improve search engine optimization (SEO). Unfortunately, the project was canceled due to client dismissal.
