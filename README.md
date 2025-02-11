@@ -72,9 +72,7 @@ Here are a few of my best finished projects:
  
 ## 📝 UX FigJam / Brainstorming / Planning for Complex Tasks
 
-- **[Platform Administrator](https://www.figma.com/board/gMG8obRwfqljKhLFH2Fe2E/ConectePubli-Admin?t=oeLa7cQ8lnNZV0Ya-6)**
-- **[Premium Features](https://www.figma.com/board/PvyUlskgNXsAmNzj4qsXv1/ConectePubli-Brand-Premium?t=oeLa7cQ8lnNZV0Ya-6)**
-- **[Campaign Creation & Management Flow](https://www.figma.com/board/HzQAwsLgJuJAPqeTUWZ5WT/ConectePubli-Campaign-Creation-%26-Administration?t=oeLa7cQ8lnNZV0Ya-6)**
+- **[Campaign Creation & Management Flow](https://www.figma.com/board/fiY1iBKpaSxsR9CwNlZ2oA/Campaign-Creation-%26-Administration-Flow?t=N8OIxb8HluLojHhE-6)**
 
 ## 📫 How to reach me
 
